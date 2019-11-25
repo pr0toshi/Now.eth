@@ -10,6 +10,7 @@ If there is no fall back we are able to make a contract with a fall back that wi
 This allows for dapps that are able to run without any app. Able to not be taken down or censored or geoblocked. And allows instant and easy Defi use. All through the power of ENS.
 
 DAWNS the future of Dapps
+
 We call dapps without apps Decentralized Autonomous Wallet Native Services. Dapps with no sites to take down or geoblock. No UI to use. No time to waste. Real smart contracts. Realtime. Real fast.
 DAWNS. The next generation of dapps.
 
